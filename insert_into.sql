@@ -1,0 +1,1 @@
+insert into `db_luiz`.`tbl_nome` (`nome`) value	('Rodrigo Salinet');
